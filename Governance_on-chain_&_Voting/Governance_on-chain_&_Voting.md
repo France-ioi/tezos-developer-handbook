@@ -69,7 +69,7 @@ At the time of writing this (March 2021), 43 periods had passed. There were 8 su
 
 The diagram below sums up the self-amendment process:
 
-![https://opentezos.com/assets/images/Governance_mechanism_uml-fa288c63cd3fb274283e90421b83d2aa.svg](https://opentezos.com/assets/images/Governance_mechanism_uml-fa288c63cd3fb274283e90421b83d2aa.svg)
+![amendement_process.svg](assets/amendement_process.svg)
 
 FIGURE 1: Self-amendment process
 
